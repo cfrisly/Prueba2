@@ -1,8 +1,8 @@
 <?php
 
-namespace chile\Http\Controllers\Auth;
+namespace AlChilazo\Http\Controllers\Auth;
 
-use chile\Http\Controllers\Controller;
+use AlChilazo\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\ResetsPasswords;
 
 class ResetPasswordController extends Controller

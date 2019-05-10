@@ -1,9 +1,9 @@
 <?php
 
-namespace chile\Http\Controllers\Auth;
+namespace AlChilazo\Http\Controllers\Auth;
 
-use chile\User;
-use chile\Http\Controllers\Controller;
+use AlChilazo\User;
+use AlChilazo\Http\Controllers\Controller;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Foundation\Auth\RegistersUsers;
@@ -59,7 +59,7 @@ class RegisterController extends Controller
      * Create a new user instance after a valid registration.
      *
      * @param  array  $data
-     * @return \chile\User
+     * @return \AlChilazo\User
      */
     protected function create(array $data)
     {

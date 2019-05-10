@@ -1,6 +1,6 @@
 <?php
 
-namespace chile\Console;
+namespace AlChilazo\Console;
 
 use Illuminate\Console\Scheduling\Schedule;
 use Illuminate\Foundation\Console\Kernel as ConsoleKernel;

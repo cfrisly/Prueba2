@@ -1,6 +1,6 @@
 <?php
 
-namespace chile\Http\Controllers;
+namespace AlChilazo\Http\Controllers;
 
 use Illuminate\Foundation\Bus\DispatchesJobs;
 use Illuminate\Routing\Controller as BaseController;

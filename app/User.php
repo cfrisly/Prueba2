@@ -1,6 +1,6 @@
 <?php
 
-namespace chile;
+namespace AlChilazo;
 
 use Illuminate\Notifications\Notifiable;
 use Illuminate\Contracts\Auth\MustVerifyEmail;

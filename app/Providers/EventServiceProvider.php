@@ -1,6 +1,6 @@
 <?php
 
-namespace chile\Providers;
+namespace AlChilazo\Providers;
 
 use Illuminate\Support\Facades\Event;
 use Illuminate\Auth\Events\Registered;

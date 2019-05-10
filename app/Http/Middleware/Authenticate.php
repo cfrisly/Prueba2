@@ -1,6 +1,6 @@
 <?php
 
-namespace chile\Http\Middleware;
+namespace AlChilazo\Http\Middleware;
 
 use Illuminate\Auth\Middleware\Authenticate as Middleware;
 

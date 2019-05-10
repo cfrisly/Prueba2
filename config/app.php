@@ -169,11 +169,11 @@ return [
         /*
          * Application Service Providers...
          */
-        chile\Providers\AppServiceProvider::class,
-        chile\Providers\AuthServiceProvider::class,
-        // chile\Providers\BroadcastServiceProvider::class,
-        chile\Providers\EventServiceProvider::class,
-        chile\Providers\RouteServiceProvider::class,
+        AlChilazo\Providers\AppServiceProvider::class,
+        AlChilazo\Providers\AuthServiceProvider::class,
+        // AlChilazo\Providers\BroadcastServiceProvider::class,
+        AlChilazo\Providers\EventServiceProvider::class,
+        AlChilazo\Providers\RouteServiceProvider::class,
 
     ],
 

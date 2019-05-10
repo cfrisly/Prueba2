@@ -35,7 +35,7 @@ return [
     ],
 
     'stripe' => [
-        'model' => chile\User::class,
+        'model' => AlChilazo\User::class,
         'key' => env('STRIPE_KEY'),
         'secret' => env('STRIPE_SECRET'),
         'webhook' => [

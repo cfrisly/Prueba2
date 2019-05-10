@@ -68,7 +68,7 @@ return [
     'providers' => [
         'users' => [
             'driver' => 'eloquent',
-            'model' => chile\User::class,
+            'model' => AlChilazo\User::class,
         ],
 
         // 'users' => [

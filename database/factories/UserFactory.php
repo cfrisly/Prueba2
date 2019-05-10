@@ -1,7 +1,7 @@
 <?php
 
 /** @var \Illuminate\Database\Eloquent\Factory $factory */
-use chile\User;
+use AlChilazo\User;
 use Illuminate\Support\Str;
 use Faker\Generator as Faker;
 
